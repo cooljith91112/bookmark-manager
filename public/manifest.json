@@ -1,7 +1,7 @@
 {
   "short_name": "Bookmark Arranger",
   "name": "Bookmark Arranger",
-  "version": "1.0",
+  "version": "0.1",
   "description": "Bookmark Arrange",
   "manifest_version": 2,
   "background": {
